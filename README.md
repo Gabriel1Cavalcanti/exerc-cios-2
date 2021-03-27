@@ -1,4 +1,4 @@
-# exerc-cios-2
+# exerc-cios
 
 1.1. Coloque aqui o código da sua classe Mensagem pedido na Questão 1
 
